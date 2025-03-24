@@ -1,0 +1,37 @@
+- Otros Importantes
+	- Elástico Ejercicio
+	- Ropa Columna mamá
+	- Ventilador
+- Oficina
+	- PC
+		- Camara
+	- Pantalla
+	- Silla
+	- Escritorio
+- Cocina
+	- Cafetera
+	- Olla Arrocera
+	- Ollas
+	- Microondas
+	- Utensilios (Cocina, mesa)
+	- Herramientas (tabla picas, pelapapas)
+- Comedor
+	- Mesa
+- Baño
+	- Tuberia
+	- Portavasos
+- Habitación
+	- Espejo
+- Sala
+	- Sofa
+- Otros no Importantes
+	- Medidor energía
+	- Diario de Ana Frank
+	- Tomacorriente con temporizador
+	- Camara
+	- Piano
+	- Pantalla Celulares
+	- Guitarra
+	- Console DJ
+	- Luces neón
+	- Alexa

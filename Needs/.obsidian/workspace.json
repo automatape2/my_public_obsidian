@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "86eaeb1ddc8e30a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3978beb607a0286",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f404c24f5069e6e7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-07-07 20.39.46.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-07-07 20.39.46.excalidraw"
+            }
+          },
+          {
+            "id": "5803d0beb8832339",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-07-07 20.39.46.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-07-07 20.39.46.excalidraw"
+            }
+          },
+          {
+            "id": "2e1e26d412005931",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orden de compras.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Orden de compras"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e509eef4fc5784a",
+    "type": "split",
+    "children": [
+      {
+        "id": "471fc27bd02e4d72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46ba7b017775f5ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "184cbe2dfad7dcfa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d3b238b8dcd74522",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dc02c757ca49a124",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d65e6c366157493",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a30788b7a60fcd5e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pasted Image 20240728190519_082.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Pasted Image 20240728190519_082"
+            }
+          },
+          {
+            "id": "de8cfe76b8387577",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pasted Image 20240728190519_082.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Pasted Image 20240728190519_082"
+            }
+          },
+          {
+            "id": "cf44ca88cf003a68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d2103f205691a19c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pasted Image 20240728190519_082.png"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Pasted Image 20240728190519_082"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "f404c24f5069e6e7",
+  "lastOpenFiles": [
+    "Orden de compras.md",
+    "Excalidraw/Drawing 2024-07-07 20.39.46.excalidraw.md",
+    "Excalidraw/General Plan.md",
+    "Pasted Image 20240707204803_465.png",
+    "Pasted Image 20240707204033_472.png",
+    "Pasted Image 20240707214621_407.png",
+    "Pasted Image 20240728190519_082.png",
+    "Pasted Image 20240728190519_102.png",
+    "Excalidraw",
+    "Welcome.md"
+  ]
+}
