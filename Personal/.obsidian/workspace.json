@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "39fe0223384acd8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a060d6c92171571f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a5635b37720fa6c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-18 17.06.58.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-06-18 17.06.58.excalidraw"
+            }
+          },
+          {
+            "id": "65b4369637ce3e04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Goals"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5013e40a049ac3c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fe88a36af561e59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6f26d8c28f429e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dfff503a8fb99354",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a16537d584a2c364",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5b10a7c03f9630e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "04a8fb50893b05dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1df14cab2cd8971a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Taller cicd.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Taller cicd"
+            }
+          },
+          {
+            "id": "dae72c3579e04271",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Taller cicd.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Taller cicd"
+            }
+          },
+          {
+            "id": "5276bd6db8f82856",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2a9d71bf41b34286",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Taller cicd.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Taller cicd"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "dbfolder:Create a new database table": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "65b4369637ce3e04",
+  "lastOpenFiles": [
+    "Orden de compras.md",
+    "Taller cicd.md",
+    "Goals.md",
+    "Excalidraw/Drawing 2024-06-18 17.06.58.excalidraw.md",
+    "politica peruana/Mensaje a la nación.md",
+    "politica peruana",
+    "Templates/Meeting Note.md",
+    "MeetingNotes/18-Jun-2024 22-03-55.md",
+    "MeetingNotes/18-Jun-2024 16-34-12.md",
+    "DailyNotes/2024-06-20.md",
+    "DailyNotes/2024-06-19.md",
+    "DailyNotes/2024-06-28.md",
+    "DailyNotes/2024-06-18.md",
+    "DailyNotes/2024-07-24.md",
+    "DailyNotes/2024-07-16.md",
+    "DailyNotes/2024-07-11.md",
+    "DailyNotes/2024-07-02.md",
+    "DailyNotes/2024-07-01.md",
+    "DailyNotes/2024-06-30.md",
+    "Excalidraw/Untitled",
+    "2024-06-18.md",
+    "Templates",
+    "DailyNotes/Untitled.md",
+    "DailyNotes",
+    "Excalidraw/Drawing 2024-06-18 16.39.44.excalidraw.md",
+    "2.md",
+    "Excalidraw",
+    "lkjdsalkdsa.md",
+    "MeetingNotes",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "2132321/12321321.md",
+    "2132321",
+    "1.md",
+    "Excalidraw/Drawing 2024-06-18 16.01.27.excalidraw.md"
+  ]
+}
