@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "347ef2300ca1464b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9cf503a88dd4543",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0d9b4c26fe247f6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Guerreros de Terracota.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Guerreros de Terracota"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4109754a74b408c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d60044c8280707d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eecbac7616229a4f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d80dd0f8408f062a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b59764258d5227ed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 231.5
+  },
+  "right": {
+    "id": "32cbf92e70e14d8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5755fdc5cd820bad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b029cf372bce648e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Guerreros de Terracota.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Guerreros de Terracota"
+            }
+          },
+          {
+            "id": "6150de0fe974bd58",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Guerreros de Terracota.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Guerreros de Terracota"
+            }
+          },
+          {
+            "id": "1cda0da655f27f5f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0ddcba8584c2c7a6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Guerreros de Terracota.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Guerreros de Terracota"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "b0d9b4c26fe247f6",
+  "lastOpenFiles": [
+    "Excalidraw/Los Diez Mandamientos.md",
+    "Excalidraw/Microbioma.md",
+    "Excalidraw/Moises.md",
+    "Excalidraw/Qin Shi Huang.md",
+    "Excalidraw/Profetas y Reyes.md",
+    "Excalidraw/Pentaculo.md",
+    "Excalidraw/Guerreros de Terracota.md",
+    "_resources/Pasted Image 20240618234032_160.png",
+    "_resources/Pasted Image 20240618230626_117.png",
+    "_resources",
+    "_resources/Pasted Image 20240620190157_014.png",
+    "_resources/Pasted Image 20240619222306_405.png",
+    "_resources/Pasted Image 20240619222131_389.png",
+    "_resources/Pasted Image 20240619222115_389.png",
+    "_resources/Pasted Image 20240619222043_422.png",
+    "_resources/Pasted Image 20240619222028_388.png",
+    "_resources/Pasted Image 20240619221957_387.png",
+    "_resources/Pasted Image 20240619173007_397.png",
+    "Los Diez Mandamientos.md",
+    "Untitled.md",
+    "Excalidraw",
+    "Excalidraw/Drawing 2024-06-18 23.05.01.excalidraw.md",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}
