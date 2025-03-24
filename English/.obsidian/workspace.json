@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "b075e1fad3e46827",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa707e2c7192ec92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fc22147f10a4dba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "to raise.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "to raise"
+            }
+          },
+          {
+            "id": "d51817bb4bc7c6d4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "4ffaa7267000dc09",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bda74dffbeee4e09",
+    "type": "split",
+    "children": [
+      {
+        "id": "98e898a8709da2eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05fa9f31e0d690a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0c5b51d2cd8034ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ec10f354787795fd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1d01b4555c47f83c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3717ec7dad6e01c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abcd3177a37cbfbb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c3a3d45fb953c7cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5b89e5365efd61f7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "c1e3cf7550407cce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4ffaa7267000dc09",
+  "lastOpenFiles": [
+    "to raise.md",
+    "techniques.md",
+    "Pasted image 20240710201929.png",
+    "Bojack Horseman (Netflix).md",
+    "Excalidraw/Drawing 2024-06-22 20.44.11.excalidraw.md",
+    "Dictionary.md",
+    "Welcome.md",
+    "Untitled.canvas",
+    "Excalidraw"
+  ]
+}
