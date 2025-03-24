@@ -136,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Siempre y.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Siempre y"
+              "title": "Outline"
             }
           },
           {
@@ -173,10 +172,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae7fa0cd98ab667b",
+  "active": "e782f14631f8d427",
   "lastOpenFiles": [
-    "Untitled.md",
     "Siempre y.md",
+    "Untitled.md",
     "Excalidraw/Drawing 2024-08-17 15.00.00.excalidraw.md",
     "Excalidraw"
   ]
